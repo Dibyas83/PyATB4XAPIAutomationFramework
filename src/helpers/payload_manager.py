@@ -1,5 +1,5 @@
 
-
+# payloads of create booking and create token
 
 def payload_create_booking():
     payload = {

@@ -1,5 +1,5 @@
 # APIConstants  -class which contain all end points
-# keep the urls
+# keeps the urls
 
 class APIConstants():
     def base_url(self):

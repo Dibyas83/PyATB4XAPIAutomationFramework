@@ -1,5 +1,6 @@
 import requests
 import json
+#  http post
 
 def get_reqest(url,auth):
     response = requests.get(url=url , auth=auth)
