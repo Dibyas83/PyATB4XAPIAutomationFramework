@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f606efdf-ce5f-4b0e-b69c-7a3b8b6b7053" name="Changes" comment="tests API AUTOMATE">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-    </list>
+    <list default="true" id="f606efdf-ce5f-4b0e-b69c-7a3b8b6b7053" name="Changes" comment="tests API AUTOMATE" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,17 +43,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python tests.pytest for test_crud_better.TestCRUDBooking.executor": "Run",
-    "Python tests.pytest for test_crud_better.TestCRUDBooking.test_put_booking_id_token.executor": "Run",
-    "Python tests.pytest for test_sample2.test_sample.executor": "Run",
-    "Python.conftest.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/a2z/PycharmProjects/PyATB4XAPIAutomationFramework"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.pytest for test_crud_better.TestCRUDBooking.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_crud_better.TestCRUDBooking.test_put_booking_id_token.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.pytest for test_sample2.test_sample.executor&quot;: &quot;Run&quot;,
+    &quot;Python.conftest.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/a2z/PycharmProjects/PyATB4XAPIAutomationFramework&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\a2z\PycharmProjects\PyATB4XAPIAutomationFramework" />
@@ -206,7 +203,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738339429618</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="tests API AUTOMATE">
+      <option name="closed" value="true" />
+      <created>1738341332273</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1738341332273</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
